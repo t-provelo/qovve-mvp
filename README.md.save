@@ -1,0 +1,13 @@
+# Qovve MVP
+A quantum computing platform with Safe Zone (cryptography) and Playground (collaboration).
+
+## Structure
+- `/frontend`: React-based UI.
+- `/backend`: FastAPI-based APIs.
+- `/docs`: Documentation.
+
+## Setup
+- Clone: `git clone https://github.com/[YourUsername]/qovve-mvp.git`
+- Frontend: `cd frontend && npm install`
+- Backend: `cd backend && pip install fastapi uvicorn`
+
